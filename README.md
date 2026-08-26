@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kahaan Soni</h1>
-<h3 align="center">A data science driven to create impactful solutions for real-world challenges!</h3>
+<h3 align="center">A data science enthusiast driven to create impactful solutions for real-world challenges!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
